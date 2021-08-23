@@ -1237,7 +1237,7 @@ img {
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  background: url(../img/PC/comments3.png) no-repeat center center/contain;
+  background: url("https://github.com/Kotaro-Kitamura/daytra-2nd-final/blob/main/img/PC/comments3.png?raw=true") no-repeat center center/contain;
 }
 
 @media (min-width: 768px) and (max-width: 1279px) {
