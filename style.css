@@ -458,7 +458,7 @@ img {
 .top {
   width: 100%;
   height: 648px;
-  background: url(../img/PC/mv.png) no-repeat center center/cover;
+  background: url("https://github.com/Kotaro-Kitamura/daytra-2nd-final/blob/main/img/PC/mv.png?raw=true") no-repeat center center/cover;
   position: relative;
   z-index: -1;
 }
@@ -467,7 +467,7 @@ img {
   .top {
     width: 100%;
     min-width: 768px;
-    background: url(../img/PC/mv.png) no-repeat 22%/auto 100%;
+    background: url("https://github.com/Kotaro-Kitamura/daytra-2nd-final/blob/main/img/PC/mv.png?raw=true") no-repeat 22%/auto 100%;
   }
 }
 
@@ -475,7 +475,7 @@ img {
   .top {
     width: 375px;
     height: 667px;
-    background: url(../img/PC/mv.png) no-repeat 26%/auto 100%;
+    background: url("https://github.com/Kotaro-Kitamura/daytra-2nd-final/blob/main/img/PC/mv.png?raw=true") no-repeat 26%/auto 100%;
   }
 }
 
@@ -708,7 +708,7 @@ img {
           transform: translateY(-50%);
   width: 14px;
   height: 23.5px;
-  background: url(../img/PC/news-arrow.png) no-repeat center center/contain;
+  background: url("https://github.com/Kotaro-Kitamura/daytra-2nd-final/blob/main/img/PC/news-arrow-1.png?raw=true") no-repeat center center/contain;
 }
 
 @media (min-width: 768px) and (max-width: 1279px) {
@@ -1237,7 +1237,7 @@ img {
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  background: url(../img/PC/comments3.png) no-repeat center center/contain;
+  background: url("https://github.com/Kotaro-Kitamura/daytra-2nd-final/blob/main/img/PC/comments3.png?raw=true") no-repeat center center/contain;
 }
 
 @media (min-width: 768px) and (max-width: 1279px) {
@@ -1344,7 +1344,7 @@ img {
 /* qa 
 --------------------------------------------------------------*/
 .qa {
-  background: url(../img/PC/qa-bg.png) no-repeat center center/cover;
+  background: url("https://github.com/Kotaro-Kitamura/daytra-2nd-final/blob/main/img/PC/qa-bg.png?raw=true") no-repeat center center/cover;
   padding: 0 40px 120px;
 }
 
@@ -1635,7 +1635,7 @@ img {
 --------------------------------------------------------------*/
 .contact {
   width: 100%;
-  background: url(../img/PC/contact-bg.png) no-repeat center center/cover;
+  background: url("https://github.com/Kotaro-Kitamura/daytra-2nd-final/blob/main/img/PC/contact-bg.png?raw=true") no-repeat center center/cover;
   padding: 60px;
   margin-top: 136px;
 }
@@ -1667,7 +1667,7 @@ img {
 
 .contact_header {
   color: #ffffff;
-  background: url(../img/PC/contact1.png) no-repeat center center/cover;
+  background: url("https://github.com/Kotaro-Kitamura/daytra-2nd-final/blob/main/img/PC/contact1.png?raw=true") no-repeat center center/cover;
   padding-bottom: 60px;
   border-radius: 12px 12px 0 0;
   height: 196px;
