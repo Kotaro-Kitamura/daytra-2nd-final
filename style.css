@@ -467,7 +467,7 @@ img {
   .top {
     width: 100%;
     min-width: 768px;
-    background: url(https://github.com/Kotaro-Kitamura/daytra-2nd-final/blob/main/img/PC/mv.png?raw=true) no-repeat 22%/auto 100%;
+    background: url("https://github.com/Kotaro-Kitamura/daytra-2nd-final/blob/main/img/PC/mv.png?raw=true") no-repeat 22%/auto 100%;
   }
 }
 
